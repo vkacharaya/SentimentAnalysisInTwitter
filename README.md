@@ -1,0 +1,2 @@
+# SentimentAnalysisInTwitter
+ This project is based on delivering the sentiment analysis for real time trending topics wherein we will categorize each trending topic into prespecified categories using Naïve Bayes model, then perform supervised learning for analyzing sentiments of the tweets gathered using twitter APIs, and finally visualizing the outputs using an interactive GUI made using Bokeh Web Server.
